@@ -1,0 +1,11 @@
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\bin\Debug\projetonovo.exe.config
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\bin\Debug\projetonovo.exe
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\bin\Debug\projetonovo.pdb
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.csproj.AssemblyReference.cache
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.csproj.SuggestedBindingRedirects.cache
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.Properties.Resources.resources
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.csproj.GenerateResource.cache
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.csproj.CoreCompileInputs.cache
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.exe
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.pdb
+C:\Users\manuele.capereira\source\repos\projetonovo\projetonovo\obj\Debug\projetonovo.Form1.resources
